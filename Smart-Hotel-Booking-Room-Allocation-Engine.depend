@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1789323071 source:c:\users\user\downloads\smart-hotel-booking-room-allocation-engine\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+
